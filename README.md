@@ -1,0 +1,2 @@
+# Classification-of-Breast-Cancer-Subtypes-machine-learning---CuMiDa-22820
+This repository contains a series of code snippets, as well as a breast cancer dataset (CuMiDA - 22820) used for the development of KNN classifiers, XGBoost, and logistic regression using tools such as quasi-constant, SMOTE, etc. The code snippets are based on the article "A hybrid machine learning approach..." (Alromema, N. et al. 2023).
